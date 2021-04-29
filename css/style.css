@@ -492,7 +492,7 @@ li{
     position: absolute;
 }
 /* Адаптив */
-@media (max-width: 1366px){
+@media (max-width: 1279px){
     .container,.header__container{
         width: 100%;
         padding-left: 16px;
