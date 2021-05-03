@@ -162,7 +162,7 @@ li{
     background: url('../img/header_bg_mob.jpg') no-repeat;
     background-size: auto 100%;
     background-position: bottom right;
-    background-color: #f3f6fd;
+    background-color: #f0f5fb;
 }
 
 .header-phone-position{
@@ -779,7 +779,7 @@ li{
 
     .header-section{
         background: url('../img/header_bg_mob.jpg') 50% 100% no-repeat;
-        background-color: #f3f6fd;
+        background-color: #f0f5fb;
         padding-bottom: 164%;
         background-size: 100% auto;
         padding-top: 24px;
